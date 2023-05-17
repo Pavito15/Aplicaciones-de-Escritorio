@@ -1,0 +1,34 @@
+div{
+    border:solid 2px;
+    float: left;
+    height: 700px;
+    width: 300px;
+    align-items: center;
+    background-color:rgba(149, 218, 144, 0.236);
+}
+
+a {
+    font-family: ''sans-serif;   
+    color: rgba(2, 8, 20, 0.853);
+    ;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 60px;
+    font-size: 25px;
+    //margin-right: 20px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+.primero{
+    margin-top: 70px;
+}
+.ha{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 260px;
+}
